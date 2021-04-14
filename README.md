@@ -1,6 +1,11 @@
 # 490+ Machine Learning Papers
-
-
+<p>This repository contains a 490+ papers relevant to:</p>
+<ul>
+<li>Machine Learning;</li>
+<li>Data mining; and</li>
+<li>Neural Networks.</li>
+</ul>
+</br>
 <table class="sidebar sidebar-collapse nomobile">
 <tbody>
 <tr>
@@ -250,6 +255,71 @@
 </div>
 </div>
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+<table class="sidebar nomobile vcard hlist">
+<tbody>
+<tr>
+<th class="sidebar-title-with-pretitle"><a title="" href="https://en.wikipedia.org/wiki/Evolutionary_algorithm">Evolutionary algorithm</a></th>
+</tr>
+<tr>
+<td class="sidebar-content hlist">
+<ul>
+<li><a title="Artificial development" href="https://en.wikipedia.org/wiki/Artificial_development">Artificial development</a></li>
+<li><a title="Artificial life" href="https://en.wikipedia.org/wiki/Artificial_life">Artificial life</a></li>
+<li><a title="Cellular evolutionary algorithm" href="https://en.wikipedia.org/wiki/Cellular_evolutionary_algorithm">Cellular evolutionary algorithm</a></li>
+<li><a title="Cultural algorithm" href="https://en.wikipedia.org/wiki/Cultural_algorithm">Cultural algorithm</a></li>
+<li><a title="Differential evolution" href="https://en.wikipedia.org/wiki/Differential_evolution">Differential evolution</a></li>
+<li><a title="Effective fitness" href="https://en.wikipedia.org/wiki/Effective_fitness">Effective fitness</a></li>
+<li><a title="Evolutionary computation" href="https://en.wikipedia.org/wiki/Evolutionary_computation">Evolutionary computation</a></li>
+<li><a title="Evolution strategy" href="https://en.wikipedia.org/wiki/Evolution_strategy">Evolution strategy</a></li>
+<li><a title="Gaussian adaptation" href="https://en.wikipedia.org/wiki/Gaussian_adaptation">Gaussian adaptation</a></li>
+<li><a title="Evolutionary multimodal optimization" href="https://en.wikipedia.org/wiki/Evolutionary_multimodal_optimization">Evolutionary multimodal optimization</a></li>
+<li><a title="Grammatical evolution" href="https://en.wikipedia.org/wiki/Grammatical_evolution">Grammatical evolution</a></li>
+<li><a title="Particle swarm optimization" href="https://en.wikipedia.org/wiki/Particle_swarm_optimization">Particle swarm optimization</a></li>
+<li><a title="Memetic algorithm" href="https://en.wikipedia.org/wiki/Memetic_algorithm">Memetic algorithm</a></li>
+<li><a title="Natural evolution strategy" href="https://en.wikipedia.org/wiki/Natural_evolution_strategy">Natural evolution strategy</a></li>
+<li><a title="Neuroevolution" href="https://en.wikipedia.org/wiki/Neuroevolution">Neuroevolution</a></li>
+<li><a title="Promoter based genetic algorithm" href="https://en.wikipedia.org/wiki/Promoter_based_genetic_algorithm">Promoter based genetic algorithm</a></li>
+<li><a title="Spiral optimization algorithm" href="https://en.wikipedia.org/wiki/Spiral_optimization_algorithm">Spiral optimization algorithm</a></li>
+<li><a title="Self-modifying code" href="https://en.wikipedia.org/wiki/Self-modifying_code">Self-modifying code</a></li>
+<li><a title="Polymorphic code" href="https://en.wikipedia.org/wiki/Polymorphic_code">Polymorphic code</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="sidebar-heading"><a title="Genetic algorithm" href="https://en.wikipedia.org/wiki/Genetic_algorithm">Genetic algorithm</a></th>
+</tr>
+<tr>
+<td class="sidebar-content hlist">
+<ul>
+<li><a title="Chromosome (genetic algorithm)" href="https://en.wikipedia.org/wiki/Chromosome_(genetic_algorithm)">Chromosome</a></li>
+<li><a title="Clonal selection algorithm" href="https://en.wikipedia.org/wiki/Clonal_selection_algorithm">Clonal selection algorithm</a></li>
+<li><a title="Crossover (genetic algorithm)" href="https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)">Crossover</a></li>
+<li><a title="Mutation (genetic algorithm)" href="https://en.wikipedia.org/wiki/Mutation_(genetic_algorithm)">Mutation</a></li>
+<li><a title="Genetic memory (computer science)" href="https://en.wikipedia.org/wiki/Genetic_memory_(computer_science)">Genetic memory</a></li>
+<li><a title="Genetic fuzzy systems" href="https://en.wikipedia.org/wiki/Genetic_fuzzy_systems">Genetic fuzzy systems</a></li>
+<li><a title="Selection (genetic algorithm)" href="https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)">Selection</a></li>
+<li><a title="Fly algorithm" href="https://en.wikipedia.org/wiki/Fly_algorithm">Fly algorithm</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="sidebar-heading"><a title="Genetic programming" href="https://en.wikipedia.org/wiki/Genetic_programming">Genetic programming</a></th>
+</tr>
+<tr>
+<td class="sidebar-content hlist">
+<ul>
+<li><a title="Cartesian genetic programming" href="https://en.wikipedia.org/wiki/Cartesian_genetic_programming">Cartesian genetic programming</a></li>
+<li><a title="Linear genetic programming" href="https://en.wikipedia.org/wiki/Linear_genetic_programming">Linear genetic programming</a></li>
+<li><a title="Multi expression programming" href="https://en.wikipedia.org/wiki/Multi_expression_programming">Multi expression programming</a></li>
+<li><a title="Schema (genetic algorithms)" href="https://en.wikipedia.org/wiki/Schema_(genetic_algorithms)">Schema</a></li>
+<li><a title="Eurisko" href="https://en.wikipedia.org/wiki/Eurisko">Eurisko</a></li>
+<li><a title="Parity benchmark" href="https://en.wikipedia.org/wiki/Parity_benchmark">Parity benchmark</a></li>
+</ul>
 </td>
 </tr>
 </tbody>
